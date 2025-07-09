@@ -18,7 +18,7 @@ Add Typography to your `wally.toml`:
 ```
 [dependencies]
 
-Typography = "metatablesnow/typography@0.1.3"
+Typography = "metatablesnow/typography@0.2.0"
 ```
 
 Then, install:
