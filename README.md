@@ -1,6 +1,6 @@
 <div align="center">
 
-# Typography
+## Typography
 
 [Github](https://github.com/metatablesnow/Typography) · [Latest Release](https://github.com/metatablesnow/Typography/releases/latest) · [Wally Page](https://wally.run/package/metatablesnow/typography)
 
