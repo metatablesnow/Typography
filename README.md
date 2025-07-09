@@ -1,6 +1,7 @@
 <div align="center">
 
-![typography-light|690x129](upload://rnlayZMb2ifZYw3smOa8ceyfoDE.png)
+# Typography
+
 [Github](https://github.com/metatablesnow/Typography) · [Latest Release](https://github.com/metatablesnow/Typography/releases/latest) · [Wally Page](https://wally.run/package/metatablesnow/typography)
 
 Typography replaces Roblox RichText’s confusing naming and manual formatting with a simple, chainable API for styling text consistently in your projects.
