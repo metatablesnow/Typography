@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./typography/issa.svg" width="75%">
+<img src="./gh-assets/typography.svg" width="75%">
 
 [Github](https://github.com/metatablesnow/Typography) · [Latest Release](https://github.com/metatablesnow/Typography/releases/latest) · [Wally Page](https://wally.run/package/metatablesnow/typography)
 
