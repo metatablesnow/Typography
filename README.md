@@ -1,9 +1,6 @@
 <div align="center">
 
-<<<<<<< HEAD
 <img src="./typography/issa.svg" width="75%">
-=======
->>>>>>> c3df5e3d2280e754ebf03c6acb2e0f84ab0f6309
 [Github](https://github.com/metatablesnow/Typography) · [Latest Release](https://github.com/metatablesnow/Typography/releases/latest) · [Wally Page](https://wally.run/package/metatablesnow/typography)
 
 A Simple Way To Manage RichText
