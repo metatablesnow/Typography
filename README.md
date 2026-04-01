@@ -2,9 +2,9 @@
 
 <img src="./gh-assets/typography.svg" width="75%">
 
-[Github](https://github.com/metatablesnow/Typography) · [Latest Release](https://github.com/metatablesnow/Typography/releases/latest) · [Wally Page](https://wally.run/package/metatablesnow/typography)
-
 <br>
+
+[Github](https://github.com/metatablesnow/Typography) · [Latest Release](https://github.com/metatablesnow/Typography/releases/latest) · [Wally Page](https://wally.run/package/metatablesnow/typography)
 
 A Simple Way To Manage RichText
 
