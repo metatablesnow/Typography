@@ -1,18 +1,15 @@
 <div align="center">
 
-![typography-light|690x129](upload://rnlayZMb2ifZYw3smOa8ceyfoDE.png)
+<img src="./typography/issa.svg" width="75%">
 [Github](https://github.com/metatablesnow/Typography) · [Latest Release](https://github.com/metatablesnow/Typography/releases/latest) · [Wally Page](https://wally.run/package/metatablesnow/typography)
 
-Typography replaces Roblox RichText’s confusing naming and manual formatting with a simple, chainable API for styling text consistently in your projects.
-###### ⚠️ Typography is in beta. It was originally built for one of my personal projects and is still a work in progress. If you have any issues, questions, or feedback, feel free to let me know.
+A Simple Way To Manage RichText
 
 </div>
 
-## Installation
+### Installation
 
-### Wally
-
-[Wally](www.wally.run) is a CLI package manager for Roblox by UpliftGames
+#### Wally
 
 Add Typography to your `wally.toml`:
 
@@ -28,12 +25,12 @@ Then, install:
 wally install
 ```
 
-### Manual
+#### Manual
 
 Install the `.rbxm` or `.lua` file from the [latest release](https://github.com/metatablesnow/Typography/releases/latest) and import it into your project.
 
-## Usage
-Typography exposes all [RichText](https://create.roblox.com/docs/ui/rich-text) formatting options as easy-to-read functions:
+### Guide
+Typography exposes all [RichText](https://create.roblox.com/docs/ui/rich-text) formatting options as easy-to-read, chainable functions:
 ```lua
 local Typography = require(path.to.Typography)
 ```

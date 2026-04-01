@@ -13,6 +13,49 @@ export type FontWeight =
 	| "ExtraBold"
 	| "Heavy"
 
+export type Font =
+	"Accanthis ADF Std"
+	| "Amatic SC"
+	| "Arial"
+	| "Arial (Legacy)"
+	| "Arimo"
+	| "Balthazar"
+	| "Bangers"
+	| "Builder Sans"
+	| "Comic Neue Angular"
+	| "Creepster"
+	| "Denk One"
+	| "Fondamento"
+	| "Fredoka One"
+	| "Gotham SSm"
+	| "Grenze Gotisch"
+	| "Guru"
+	| "Highway Gothic"
+	| "Inconsolata"
+	| "Indie Flower"
+	| "Josefin Sans"
+	| "Jura"
+	| "Kalam"
+	| "Luckiest Guy"
+	| "Merriweather"
+	| "Michroma"
+	| "Montserrat"
+	| "Nunito"
+	| "Oswald"
+	| "Patrick Hand"
+	| "Permanent Marker"
+	| "Press Start 2P"
+	| "Roboto"
+	| "Roboto Condensed"
+	| "Roboto Mono"
+	| "Roman Antique"
+	| "Sarpanch"
+	| "Source Sans Pro"
+	| "Special Elite"
+	| "Titillium Web"
+	| "Ubuntu"
+	| "Zekton"
+
 local function formatColor(color)
 	if typeof(color) == "Color3" then
 		return "#" .. color:ToHex()
@@ -49,8 +92,8 @@ function Typography.Size(text: string, size: number): string
 	return addFontAttribute(text, "size", tostring(size))
 end
 
-function Typography.FontFace(text: string, fontId: string): string
-	return addFontAttribute(text, "face", fontId)
+function Typography.FontFace(text: string, font: Font): string
+	return addFontAttribute(text, "face", font)
 end
 
 function Typography.Weight(text: string, weight: string): string
